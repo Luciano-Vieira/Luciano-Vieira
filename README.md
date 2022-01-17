@@ -9,6 +9,7 @@ experiências adquiridas a partir de projectos pessoais, acadêmicos e em colabo
 
 
 ![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-Vieira&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Vieira)](https://github.com/Luciano-Vieira/github-readme-stats) 
 
 ## Tecnologias que uso. Conhecimento básico!
 <div style="display: inline-block;"><br>
