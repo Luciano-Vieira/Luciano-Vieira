@@ -27,7 +27,7 @@ experiências adquiridas a partir de projectos pessoais, acadêmicos e em colabo
 
 - [Projecto-tupuca](https://github.com/Luciano-Vieira/projecto-tupuca) <br>
 
-- [Projecto-página-hotel](https://github.com/Luciano-Vieira/pagina-hotel) <br>
+- [Projecto-página-hotel](https://luciano-vieira.github.io/pagina-hotel/) <br>
 
 - [Projecto-google-glass](https://github.com/Luciano-Vieira/google-glass) <br>
 
