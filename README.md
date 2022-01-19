@@ -25,12 +25,12 @@ experiências adquiridas a partir de projectos pessoais, acadêmicos e em colabo
 ### Repositórios com alguns dos meus projectos mais recentes:
 
 
-- [Projecto-tupuca](https://github.com/Luciano-Vieira/projecto-tupuca) <br>
-
 - [Projecto-página-hotel](https://luciano-vieira.github.io/pagina-hotel/) <br>
 
-- [Projecto-google-glass](https://github.com/Luciano-Vieira/google-glass) <br>
+- [Projecto-google-glass](https://luciano-vieira.github.io/google-glass/) <br>
 
 - [projecto-crud-pessoaro](https://github.com/Luciano-Vieira/projecto-crud-pessoa) <br>
 
 - [projecto-CrossCupid](https://github.com/felipesms2/CrossCupid) <br>
+
+- [Projecto-tupuca](https://github.com/Luciano-Vieira/projecto-tupuca) <br>
